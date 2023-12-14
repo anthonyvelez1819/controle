@@ -38,4 +38,7 @@ switch ($month){
     case "décembre":
         echo "le moi 12";
         break;
+    default:
+        echo "erreur"
+        ?>
 }
